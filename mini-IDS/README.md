@@ -78,4 +78,3 @@ Gli alert vengono scritti in tempo reale nel file `security_alerts.json`. Ogni e
 
 Sviluppato a scopo didattico e di portfolio per il mondo della Cybersecurity.
 
-```
