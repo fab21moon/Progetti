@@ -67,6 +67,14 @@ Gli alert vengono scritti in tempo reale nel file `security_alerts.json`. Ogni e
 }
 
 ```
+## 📸 Screenshots
+
+### Esecuzione
+<img width="695" height="255" alt="image" src="https://github.com/user-attachments/assets/029d5ac4-c311-43bf-a2c9-fb93330c595a" />
+
+### Log File
+<img width="1182" height="327" alt="image" src="https://github.com/user-attachments/assets/8c1203d9-2db4-4af1-8e5f-f43500933d03" />
+
 
 ## 📈 Possibili Sviluppi 
 
